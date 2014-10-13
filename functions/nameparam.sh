@@ -3,6 +3,7 @@
 # https://github.com/int-ua/bash-scripts
 
 # Function for easy positional parameters naming
+# and asking user to provide missing ones
 
 ## Usage:
 # source ~/bin/functions/nameparam.sh || exit 1
